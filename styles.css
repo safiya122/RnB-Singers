@@ -1,0 +1,14 @@
+body{
+   background-color:gray;
+    background-image:url("https://media.istockphoto.com/photos/condenser-microphone-in-recording-studio-music-background-picture-id911576482?k=6&m=911576482&s=170667a&w=0&h=ns-3ODW5d_ISMwyMgP-r6-TS93CNPurFFSmGO4YbM08= ");
+}
+
+h1{color:white;
+}
+
+
+img{width:400px;
+    height:240px;
+border: 6px solid #feffff;
+     padding: 5px;
+}
